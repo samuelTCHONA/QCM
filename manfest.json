@@ -1,0 +1,16 @@
+
+{
+    "name": "QCM game",
+    "short_name": "QCM",
+    "start_url": "index.html",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "appel.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
+  
